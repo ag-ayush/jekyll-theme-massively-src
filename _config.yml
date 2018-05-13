@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Ayush Goel
+bio:                'Personal Website'
+description:        "Personal Website"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -35,15 +35,16 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+# twitter:            default
+# facebook:           default
+instagram:          ag.goel
+github:             ag-ayush
+linkedin:           ayush-goel-589ba215a
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Rochester, NY
+phone:              315-572-6532
+email:              ag.goelayush@gmail.com
 
 # Gems
 gems:
